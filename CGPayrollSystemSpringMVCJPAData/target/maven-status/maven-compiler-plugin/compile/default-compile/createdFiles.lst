@@ -1,0 +1,10 @@
+com\cg\payroll\beans\Associate.class
+com\cg\payroll\controllers\URIController.class
+com\cg\payroll\beans\BankDetails.class
+com\cg\payroll\daoservices\AssociateDAO.class
+com\cg\payroll\beans\Salary.class
+com\cg\payroll\exceptions\PayrollServicesDownException.class
+com\cg\payroll\exceptions\AssociateDetailsNotFoundException.class
+com\cg\payroll\controllers\AssociateController.class
+com\cg\payroll\services\PayrollServices.class
+com\cg\payroll\services\PayrollServicesImpl.class
